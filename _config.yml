@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5250896
+  lightness: 0.6827957
+  brandStrength: 0.5215054
+  brandColors:
+    - '#DEE3E6'
+    - '#C6C6C6'
+    - '#0C100F'
+    - '#A1A3A2'
+    - '#827B73'
+  rhythmicContrast: 0.797491
+typography_spectrum: 0.4390681
+name: 'Red mango '
